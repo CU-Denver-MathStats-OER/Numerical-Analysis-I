@@ -28,3 +28,8 @@ Course contents for Numerical Analysis I (MATH 4650/5660 at CU Denver)
 ### Multiple integrals
 ### Improper integrals
 ### Numerical differentiation
+
+## Chapter 6--Approximation Theory
+### Discrete least squares
+### Continuous least squares
+### Orthogonal polynomials and least squares
