@@ -14,3 +14,17 @@ Course contents for Numerical Analysis I (MATH 4650/5660 at CU Denver)
 ### Muller's method
 ### Fixed-point iteration
 ### High-order fixed-point iteration
+
+## Chapter 4--Interpolation
+### Polynomial interpolation
+### High degree polynomial interpolation
+### Hermite interpolation
+### Piecewise polynomials: spline interpolation
+
+## Chapter 5--Numerical Quadrature and Differentiation
+### Newton-Cotes formulas
+### Composite Newton-Cotes formulas
+### Gaussian quadrature
+### Multiple integrals
+### Improper integrals
+### Numerical differentiation
