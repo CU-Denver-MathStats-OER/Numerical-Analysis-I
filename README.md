@@ -15,6 +15,11 @@ Course contents for Numerical Analysis I (MATH 4650/5660 at CU Denver)
 ### Fixed-point iteration
 ### High-order fixed-point iteration
 
+## Chapter 3--Solutions to linear systems
+### Gaussian Elimination
+### Iterative methods for solving linear systems
+### Cholesky decomposition
+
 ## Chapter 4--Interpolation
 ### Polynomial interpolation
 ### High degree polynomial interpolation
