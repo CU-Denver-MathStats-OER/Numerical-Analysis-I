@@ -38,3 +38,7 @@ Course contents for Numerical Analysis I (MATH 4650/5660 at CU Denver)
 ### Discrete least squares
 ### Continuous least squares
 ### Orthogonal polynomials and least squares
+
+## Chapter 7--Numerical optimization
+### Golden-section search
+### Derivative-based optimization
