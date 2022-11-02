@@ -42,3 +42,7 @@ Course contents for Numerical Analysis I (MATH 4650/5660 at CU Denver)
 ## Chapter 7--Numerical optimization
 ### Golden-section search
 ### Derivative-based optimization
+
+
+- Latex plug-in: to display the math environment correctly, the Jupyter notebook plug-in 
+  [(some) LaTeX environments for Jupyter notebook](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/latex_envs/README.html) needs to be installed.
