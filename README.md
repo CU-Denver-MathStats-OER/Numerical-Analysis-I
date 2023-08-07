@@ -44,5 +44,9 @@ Course contents for Numerical Analysis I (MATH 4650/5660 at CU Denver)
 ### Derivative-based optimization
 
 
-- Latex plug-in: to display the math environment correctly, the Jupyter notebook plug-in 
+## Latex Plug-in
+- To display the math environment correctly, the Jupyter notebook plug-in 
   [(some) LaTeX environments for Jupyter notebook](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/latex_envs/README.html) needs to be installed.
+
+## Creative Commons License Information
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">First Semester in Numerical Analysis with Python</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/CU-Denver-MathStats-OER/Numerical-Analysis-I" property="cc:attributionName" rel="cc:attributionURL">Yaning Liu and Giray Okten</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/CU-Denver-MathStats-OER/Numerical-Analysis-I" rel="dct:source">https://github.com/CU-Denver-MathStats-OER/Numerical-Analysis-I</a>.
